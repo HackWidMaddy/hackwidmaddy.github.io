@@ -1,0 +1,42 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       /archive
+    url: /archive.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       /about
+    url: /about.html
+
+blogs:
+  - title:   
+    children:
+      - title: Learnings From My First Cybersecurity Job
+        url:   /2024/12/10/Learnings-From-My-First-Cybersecurity-Job.html
+      - title: Hacking Razorpay Phishing Scammer
+        url:   /2024/12/10/Hacking-The-Razorpay-Phishing-Scammer.html
+      - title: 10x Hacking With Be10x
+        url:   /2024/11/25/10x-Hacking-With-Be10x.html
+      - title: PHP Type Juggling - Explained
+        url:   /2024/11/17/PHP-Type-Juggling-Explained.html
+      - title: Shellshock - Diving Deep Into The Shock
+        url:   /2024/11/12/Shellshock-Diving-Deep-Into-The-Shock.html
+      - title: Hacking Into Your Medical History
+        url:   /2024/08/28/Hacking-Into-Your-Medical-History.html
+      - title: Hacking The Salon Next Door
+        url:   /2024/08/10/Hacking-The-Salon-Next-Door.html
+      - title: Taking Down Chinese Hackers
+        url:   /2024/08/06/Taking-Down-Chinese-Hackers.html
+      - title: Hacking The Parrot - LLM Security
+        url:   /2024/05/31/Hacking-The-Parrot-LLM-Security.html
+      - title: Burp Suite Certified Practitioner Review
+        url:   /2024/04/15/Burp-Suite-Certified-Practitioner-Review.html
+      - title: Karma & Mana - The Evil Twins and the Neighbours
+        url:   /2023/10/15/Karma-&-Mana-The-Evil-Twins-and-the-Neighbours.html
+      - title: The OldSkool TabNabbing
+        url:   /2023/09/28/The-OldSkool-TabNabbing.html
+      - title: LLMNR Poisoning
+        url:   /2021/10/03/LLMNR-Poisoning-Explained.html
+      - title: My OSCP Journey
+        url:   /2021/09/13/My-OSCP-Journey.html
